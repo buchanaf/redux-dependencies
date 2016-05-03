@@ -1,0 +1,22 @@
+{
+  "name": "@buchanaf/react-dependencies",
+  "version": "1.0.0",
+  "description": "Aggregation of redux dependencies (for React)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "Alex Buchanan <buchanaf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-redux": "^4.4.5",
+    "redial": "^0.4.1",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.0.1"
+  }
+}
