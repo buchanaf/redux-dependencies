@@ -1,6 +1,6 @@
-# Postcss-dependencies
+# Redux-dependencies
 
-Module of modules to centralize postcss dependencies. Inspired by [tj/react-fatigue-dev](https://github.com/tj/react-fatigue-dev).
+Module of modules to centralize redux dependencies. Inspired by [tj/react-fatigue-dev](https://github.com/tj/react-fatigue-dev).
 
 ## Installation
 

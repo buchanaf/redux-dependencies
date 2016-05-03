@@ -1,5 +1,5 @@
 {
-  "name": "@buchanaf/react-dependencies",
+  "name": "@buchanaf/redux-dependencies",
   "version": "1.0.0",
   "description": "Aggregation of redux dependencies (for React)",
   "main": "index.js",
